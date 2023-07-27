@@ -1,0 +1,25 @@
+{
+    "window.menuBarVisibility": "toggle",
+    "editor.cursorBlinking": "phase",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.bracketPairColorization.enabled": false,
+      "window.titleBarStyle": "custom",
+        "breadcrumbs.enabled": false,
+        "workbench.layoutControl.type": "menu",
+      "editor.renderWhitespace": "all",
+      "editor.scrollbar.verticalScrollbarSize": 2,
+    "editor.scrollbar.horizontalScrollbarSize": 2,
+      "editor.minimap.enabled": false,
+      "editor.renderLineHighlight": "none",
+      "editor.mouseWheelZoom": true,
+      "workbench.colorTheme": "Catppuccin Latte",
+      "workbench.startupEditor": "none",
+      "files.autoSave": "afterDelay",
+      "security.workspace.trust.untrustedFiles": "open",
+      "update.showReleaseNotes": false,
+      "update.enableWindowsBackgroundUpdates": false,
+      "workbench.layoutControl.enabled": false,
+      "[html]": {
+          "editor.defaultFormatter": "vscode.html-language-features"
+          
+}
